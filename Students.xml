@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Students SYSTEM "Student.dtd">
+<?xml-stylesheet type="text/xsl" href="Student.xsl"?>
+<Students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="Student.xsd">
+	<student sid="a">
+		<name> Ananya </name>
+		<email> ananya@gmali.com </email>
+		<marks> 99 </marks>
+		<class> 5 </class>
+	</student>
+	<student sid="b">
+		<name> Velagapudi </name>
+		<email> velagapudi@gmail.com </email>
+		<marks> 100 </marks>
+		<class> 12 </class>
+	</student>
+	<student sid="c">
+		<name> Mahita </name>
+		<email> mahita@gmail.com </email>
+		<marks> 99 </marks>
+		<class> 10 </class>
+	</student>
+	<student sid="d">
+		<name> Mamatha </name>
+		<email> mamatha@gmail.com </email>
+		<marks> 98 </marks>
+		<class> 10 </class>
+	</student>
+	<student sid="e">
+		<name> Anuhya </name>
+		<email> anuhya@gmail.com </email>
+		<marks> 99 </marks>
+		<class> 11 </class>
+	</student>
+</Students>
