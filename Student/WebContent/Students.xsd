@@ -11,7 +11,7 @@
 							<xs:element name="name" type="xs:string" />
 							<xs:element name="emailid" type="xs:string" />
 						</xs:sequence>
-						<xs:attribute name="eid" type="xs:string"
+						<xs:attribute name="sid" type="xs:string"
 							use="required" />
 					</xs:complexType>
 				</xs:element>
